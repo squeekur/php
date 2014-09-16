@@ -1,0 +1,718 @@
+================= client information =================
+Array
+(
+    [group_id] => 1
+    [num_products] => 50
+    [num_groups] => 5
+)
+================= product information =================
+Array
+(
+    [status] => success
+    [message] => nothing to worry about
+    [group_id] => 1
+    [product_info] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [is_producer] => 0
+                    [is_consumer] => 0
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [is_producer] => 0
+                    [is_consumer] => 1
+                    [utility] => 182.00
+                )
+
+            [2] => Array
+                (
+                    [id] => 3
+                    [is_producer] => 0
+                    [is_consumer] => 0
+                )
+
+            [3] => Array
+                (
+                    [id] => 4
+                    [is_producer] => 1
+                    [is_consumer] => 0
+                    [cost] => 76.00
+                )
+
+            [4] => Array
+                (
+                    [id] => 5
+                    [is_producer] => 0
+                    [is_consumer] => 0
+                )
+
+            [5] => Array
+                (
+                    [id] => 6
+                    [is_producer] => 0
+                    [is_consumer] => 0
+                )
+
+            [6] => Array
+                (
+                    [id] => 7
+                    [is_producer] => 0
+                    [is_consumer] => 0
+                )
+
+            [7] => Array
+                (
+                    [id] => 8
+                    [is_producer] => 0
+                    [is_consumer] => 0
+                )
+
+            [8] => Array
+                (
+                    [id] => 9
+                    [is_producer] => 0
+                    [is_consumer] => 1
+                    [utility] => 199.00
+                )
+
+            [9] => Array
+                (
+                    [id] => 10
+                    [is_producer] => 1
+                    [is_consumer] => 0
+                    [cost] => 95.00
+                )
+
+            [10] => Array
+                (
+                    [id] => 11
+                    [is_producer] => 1
+                    [is_consumer] => 0
+                    [cost] => 59.00
+                )
+
+            [11] => Array
+                (
+                    [id] => 12
+                    [is_producer] => 0
+                    [is_consumer] => 0
+                )
+
+            [12] => Array
+                (
+                    [id] => 13
+                    [is_producer] => 1
+                    [is_consumer] => 0
+                    [cost] => 60.00
+                )
+
+            [13] => Array
+                (
+                    [id] => 14
+                    [is_producer] => 0
+                    [is_consumer] => 0
+                )
+
+            [14] => Array
+                (
+                    [id] => 15
+                    [is_producer] => 0
+                    [is_consumer] => 0
+                )
+
+            [15] => Array
+                (
+                    [id] => 16
+                    [is_producer] => 0
+                    [is_consumer] => 0
+                )
+
+            [16] => Array
+                (
+                    [id] => 17
+                    [is_producer] => 0
+                    [is_consumer] => 1
+                    [utility] => 187.00
+                )
+
+            [17] => Array
+                (
+                    [id] => 18
+                    [is_producer] => 1
+                    [is_consumer] => 0
+                    [cost] => 96.00
+                )
+
+            [18] => Array
+                (
+                    [id] => 19
+                    [is_producer] => 1
+                    [is_consumer] => 0
+                    [cost] => 84.00
+                )
+
+            [19] => Array
+                (
+                    [id] => 20
+                    [is_producer] => 0
+                    [is_consumer] => 0
+                )
+
+            [20] => Array
+                (
+                    [id] => 21
+                    [is_producer] => 1
+                    [is_consumer] => 0
+                    [cost] => 98.00
+                )
+
+            [21] => Array
+                (
+                    [id] => 22
+                    [is_producer] => 0
+                    [is_consumer] => 1
+                    [utility] => 198.00
+                )
+
+            [22] => Array
+                (
+                    [id] => 23
+                    [is_producer] => 0
+                    [is_consumer] => 0
+                )
+
+            [23] => Array
+                (
+                    [id] => 24
+                    [is_producer] => 0
+                    [is_consumer] => 0
+                )
+
+            [24] => Array
+                (
+                    [id] => 25
+                    [is_producer] => 0
+                    [is_consumer] => 0
+                )
+
+            [25] => Array
+                (
+                    [id] => 26
+                    [is_producer] => 0
+                    [is_consumer] => 0
+                )
+
+            [26] => Array
+                (
+                    [id] => 27
+                    [is_producer] => 0
+                    [is_consumer] => 0
+                )
+
+            [27] => Array
+                (
+                    [id] => 28
+                    [is_producer] => 0
+                    [is_consumer] => 0
+                )
+
+            [28] => Array
+                (
+                    [id] => 29
+                    [is_producer] => 0
+                    [is_consumer] => 1
+                    [utility] => 194.00
+                )
+
+            [29] => Array
+                (
+                    [id] => 30
+                    [is_producer] => 0
+                    [is_consumer] => 0
+                )
+
+            [30] => Array
+                (
+                    [id] => 31
+                    [is_producer] => 0
+                    [is_consumer] => 1
+                    [utility] => 199.00
+                )
+
+            [31] => Array
+                (
+                    [id] => 32
+                    [is_producer] => 0
+                    [is_consumer] => 0
+                )
+
+            [32] => Array
+                (
+                    [id] => 33
+                    [is_producer] => 0
+                    [is_consumer] => 1
+                    [utility] => 174.00
+                )
+
+            [33] => Array
+                (
+                    [id] => 34
+                    [is_producer] => 1
+                    [is_consumer] => 0
+                    [cost] => 90.00
+                )
+
+            [34] => Array
+                (
+                    [id] => 35
+                    [is_producer] => 0
+                    [is_consumer] => 0
+                )
+
+            [35] => Array
+                (
+                    [id] => 36
+                    [is_producer] => 0
+                    [is_consumer] => 0
+                )
+
+            [36] => Array
+                (
+                    [id] => 37
+                    [is_producer] => 0
+                    [is_consumer] => 1
+                    [utility] => 172.00
+                )
+
+            [37] => Array
+                (
+                    [id] => 38
+                    [is_producer] => 0
+                    [is_consumer] => 0
+                )
+
+            [38] => Array
+                (
+                    [id] => 39
+                    [is_producer] => 0
+                    [is_consumer] => 0
+                )
+
+            [39] => Array
+                (
+                    [id] => 40
+                    [is_producer] => 0
+                    [is_consumer] => 0
+                )
+
+            [40] => Array
+                (
+                    [id] => 41
+                    [is_producer] => 0
+                    [is_consumer] => 1
+                    [utility] => 127.00
+                )
+
+            [41] => Array
+                (
+                    [id] => 42
+                    [is_producer] => 0
+                    [is_consumer] => 0
+                )
+
+            [42] => Array
+                (
+                    [id] => 43
+                    [is_producer] => 1
+                    [is_consumer] => 0
+                    [cost] => 91.00
+                )
+
+            [43] => Array
+                (
+                    [id] => 44
+                    [is_producer] => 0
+                    [is_consumer] => 0
+                )
+
+            [44] => Array
+                (
+                    [id] => 45
+                    [is_producer] => 0
+                    [is_consumer] => 0
+                )
+
+            [45] => Array
+                (
+                    [id] => 46
+                    [is_producer] => 0
+                    [is_consumer] => 0
+                )
+
+            [46] => Array
+                (
+                    [id] => 47
+                    [is_producer] => 0
+                    [is_consumer] => 0
+                )
+
+            [47] => Array
+                (
+                    [id] => 48
+                    [is_producer] => 0
+                    [is_consumer] => 0
+                )
+
+            [48] => Array
+                (
+                    [id] => 49
+                    [is_producer] => 0
+                    [is_consumer] => 1
+                    [utility] => 165.00
+                )
+
+            [49] => Array
+                (
+                    [id] => 50
+                    [is_producer] => 1
+                    [is_consumer] => 0
+                    [cost] => 80.00
+                )
+
+        )
+
+)
+================= trading clock =================
+Array
+(
+    [period.idx] => 33
+    [rnd.a] => 1
+    [rnd.b] => 0
+)
+================= my product information =================
+Array
+(
+    [status] => success
+    [message] => nothing to worry about
+    [group_id] => 1
+    [produced] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 4
+                    [cost] => 76.00
+                )
+
+            [1] => Array
+                (
+                    [id] => 10
+                    [cost] => 95.00
+                )
+
+            [2] => Array
+                (
+                    [id] => 11
+                    [cost] => 59.00
+                )
+
+            [3] => Array
+                (
+                    [id] => 13
+                    [cost] => 60.00
+                )
+
+            [4] => Array
+                (
+                    [id] => 18
+                    [cost] => 96.00
+                )
+
+            [5] => Array
+                (
+                    [id] => 19
+                    [cost] => 84.00
+                )
+
+            [6] => Array
+                (
+                    [id] => 21
+                    [cost] => 98.00
+                )
+
+            [7] => Array
+                (
+                    [id] => 34
+                    [cost] => 90.00
+                )
+
+            [8] => Array
+                (
+                    [id] => 43
+                    [cost] => 91.00
+                )
+
+            [9] => Array
+                (
+                    [id] => 50
+                    [cost] => 80.00
+                )
+
+        )
+
+    [to.sell] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 19
+                    [cost] => 84.00
+                )
+
+            [1] => Array
+                (
+                    [id] => 21
+                    [cost] => 98.00
+                )
+
+            [2] => Array
+                (
+                    [id] => 34
+                    [cost] => 90.00
+                )
+
+            [3] => Array
+                (
+                    [id] => 43
+                    [cost] => 91.00
+                )
+
+            [4] => Array
+                (
+                    [id] => 50
+                    [cost] => 80.00
+                )
+
+        )
+
+    [consumed] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [utility] => 182.00
+                )
+
+            [1] => Array
+                (
+                    [id] => 9
+                    [utility] => 199.00
+                )
+
+            [2] => Array
+                (
+                    [id] => 17
+                    [utility] => 187.00
+                )
+
+            [3] => Array
+                (
+                    [id] => 22
+                    [utility] => 198.00
+                )
+
+            [4] => Array
+                (
+                    [id] => 29
+                    [utility] => 194.00
+                )
+
+            [5] => Array
+                (
+                    [id] => 31
+                    [utility] => 199.00
+                )
+
+            [6] => Array
+                (
+                    [id] => 33
+                    [utility] => 174.00
+                )
+
+            [7] => Array
+                (
+                    [id] => 37
+                    [utility] => 172.00
+                )
+
+            [8] => Array
+                (
+                    [id] => 41
+                    [utility] => 127.00
+                )
+
+            [9] => Array
+                (
+                    [id] => 49
+                    [utility] => 165.00
+                )
+
+        )
+
+)
+================= in transactions =================
+Array
+(
+    [status] => success
+    [message] => nothing to worry about
+    [group_id] => 1
+    [offers] => Array
+        (
+            [pending] => Array
+                (
+                )
+
+            [expired] => Array
+                (
+                )
+
+            [purchased] => Array
+                (
+                )
+
+            [referred] => Array
+                (
+                )
+
+        )
+
+    [referrals] => Array
+        (
+            [pending] => Array
+                (
+                )
+
+            [expired] => Array
+                (
+                )
+
+            [purchased] => Array
+                (
+                )
+
+            [referred] => Array
+                (
+                )
+
+        )
+
+)
+================= out transactions =================
+Array
+(
+    [status] => success
+    [message] => nothing to worry about
+    [group_id] => 1
+    [offers] => Array
+        (
+            [pending] => Array
+                (
+                )
+
+            [expired] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 1
+                            [product.id] => 4
+                            [price] => 83.60
+                            [first.ref.fee] => 1.52
+                            [second.ref.fee] => 0.76
+                            [from.id] => 1
+                            [post.rnd] => 31
+                            [ref.degree] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 2
+                            [product.id] => 10
+                            [price] => 104.50
+                            [first.ref.fee] => 1.90
+                            [second.ref.fee] => 0.95
+                            [from.id] => 1
+                            [post.rnd] => 31
+                            [ref.degree] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [id] => 3
+                            [product.id] => 11
+                            [price] => 64.90
+                            [first.ref.fee] => 1.18
+                            [second.ref.fee] => 0.59
+                            [from.id] => 1
+                            [post.rnd] => 31
+                            [ref.degree] => 0
+                        )
+
+                    [3] => Array
+                        (
+                            [id] => 4
+                            [product.id] => 13
+                            [price] => 66.00
+                            [first.ref.fee] => 1.20
+                            [second.ref.fee] => 0.60
+                            [from.id] => 1
+                            [post.rnd] => 31
+                            [ref.degree] => 0
+                        )
+
+                    [4] => Array
+                        (
+                            [id] => 5
+                            [product.id] => 18
+                            [price] => 105.60
+                            [first.ref.fee] => 1.92
+                            [second.ref.fee] => 0.96
+                            [from.id] => 1
+                            [post.rnd] => 31
+                            [ref.degree] => 0
+                        )
+
+                )
+
+            [purchased] => Array
+                (
+                )
+
+            [referred] => Array
+                (
+                )
+
+        )
+
+    [referrals] => Array
+        (
+            [pending] => Array
+                (
+                )
+
+            [expired] => Array
+                (
+                )
+
+            [purchased] => Array
+                (
+                )
+
+            [referred] => Array
+                (
+                )
+
+        )
+
+)

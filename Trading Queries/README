@@ -1,0 +1,20 @@
+/**
+* by Qi Zhao , manazhao@soe.ucsc.edu
+* Date: May 1st, 2014
+*/
+
+Programing Guidlines:
+=========================================================================================================================================
+
+1) TradingClient.php implements accessing the trading server. It provides all required function calls which are needed by your trading task. 
+please refer to the file for more detailed description of each web service query.
+
+2) please read through trading.robot.php to understand all steps in product trading.
+
+3) modify trading.strategy.php to setup your own trading strategy.
+IMPORTANT: 
+	1) rename trading.strategy.php, e.g. my.trading.strategy.php
+	2) modify trading.robot.php by changing "require_once "./trading.strategy.php" to "require_once "./my.trading.strategy.php". This line is at the very begining of the file
+	3) the data structure of the server response is explained when it shows up in the first time.
+
+
