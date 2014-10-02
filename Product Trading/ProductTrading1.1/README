@@ -1,0 +1,13 @@
+1) please write your trading strategy in main.php file. 
+
+2) TradingClient.php implements accessing the trading server. It provides all required function calls which are needed by your trading task. 
+please refer to the file for more detailed description of each web service query.
+
+
+3) the json files are example resposne from the server. You are expected to extract the information you are interested in by looking at the format of the 
+response. 
+
+
+
+VERY IMPORTANT:
+1) rename the main.php.sample and work with the renamed file. Doing this will help you avoid overwriting your work.
